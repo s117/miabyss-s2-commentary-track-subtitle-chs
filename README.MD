@@ -15,7 +15,7 @@
 | 第7话  | 小岛正幸（监督）、土笔章人（原作）、仓田英之（系列构成/脚本）、山下慎平（制作人） | [下载](https://raw.githubusercontent.com/s117/miabyss-s2-commentary-track-subtitle-chs/main/Made%20in%20Abyss%20S2%20-%2007%20Commentary.chs.srt) |
 | 第12话 | 富田美忧（饰 莉可）、伊濑茉莉也（饰 雷格）、井泽诗织（饰 娜娜奇）、久野美咲（饰 伊尔缪依 / 法普塔） | [下载](https://raw.githubusercontent.com/s117/miabyss-s2-commentary-track-subtitle-chs/main/Made%20in%20Abyss%20S2%20-%2012%20Commentary.chs.srt) |
 
-
+感谢**DimingDimingDiming**帮忙人工听译！
 
 在[知识共享 署名-非商业性使用-禁止演绎 4.0协议][cc-by-nc-nd-chs]之条款下提供 ，在署名、非商业、不修改原文字内容的前提下可自由使用或以任何形式重新发布。
 
